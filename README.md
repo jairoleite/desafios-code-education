@@ -9,7 +9,7 @@ imagem: docker pull jairoleite/codeeducation
 
 ### Desafio nginx com node e mysql
 ```
-  1) Baixar projeto 
+  1) Entrar no projeto (nginx-com-node)
   2) Executar o comando (yarn)
   3) docker-compose up -d --build
 ```
