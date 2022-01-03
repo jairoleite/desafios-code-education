@@ -12,4 +12,5 @@ imagem: docker pull jairoleite/codeeducation
   1) Entrar no projeto (nginx-com-node)
   2) Executar o comando (yarn)
   3) docker-compose up -d --build
+  4) acessar a url (http://localhost:8080/pessoas)
 ```
